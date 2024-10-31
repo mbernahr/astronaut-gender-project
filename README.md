@@ -41,9 +41,9 @@ pip install -r requirements.txt
 ```
 
 ### Usage
-Run the script as follows
+Run the script as follows:
 
-````bash
+```bash
 python count_astronauts_gender.py
 ```
 
