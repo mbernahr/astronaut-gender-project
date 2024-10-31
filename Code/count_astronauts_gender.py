@@ -1,6 +1,3 @@
-# SPDX-FileCopyrightText: 2024 2018 German Aerospace Center (DLR)
-# SPDX-FileCopyrightText: 2024 2023 Marius Bernahrndt
-# SPDX-FileCopyrightText: 2024 2024 Marius Bernahrndt
 # SPDX-FileCopyrightText: 2024 Marius Bernahrndt
 #
 # SPDX-License-Identifier: CC-BY-4.0
