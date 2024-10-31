@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2023 Marius Bernahrndt
+# SPDX-License-Identifier: CC-BY-4.0
+
 # Pytho-Bytecode-Data
 *.pyc
 __pycache__/
@@ -10,3 +13,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
+# IDE config files
+.idea/
+Code/.idea/
