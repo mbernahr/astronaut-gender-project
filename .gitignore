@@ -1,0 +1,12 @@
+# Pytho-Bytecode-Data
+*.pyc
+__pycache__/
+
+# Temp Data
+*.tmp
+*.log
+
+# Systemdata
+.DS_Store
+Thumbs.db
+
