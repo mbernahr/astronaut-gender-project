@@ -15,4 +15,5 @@ Thumbs.db
 
 # IDE config files
 .idea/
+.idea/.gitignore
 Code/.idea/
